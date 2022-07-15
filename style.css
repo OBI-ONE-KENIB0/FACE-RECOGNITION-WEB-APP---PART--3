@@ -1,0 +1,19 @@
+.heading{
+width:80%;
+font-size:23px;
+}
+.name_of_objects{
+color:darkviolet;
+}
+#camera{
+width:350px;
+height:300px;
+border:2px dashed limegreen;
+}
+#result_object_name,#result_object_accuracy{
+color:goldenrod;
+}
+body{
+color:white;
+background:black;
+}
